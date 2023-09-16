@@ -1,0 +1,83 @@
+{
+  "educations": [
+      {
+          "id": "1",
+          "name": "Education",
+          "description": "Student at Bellville Technical High School (HTS Bellvile). Studied Auto motive (Engineering) for 3 years. Finished and went to college at Northlink in Bellville South. Didn't finish my studies cause of covid😥."
+      }
+  ],
+
+  "experiences": [
+      {
+          "id": 1,
+          "title":"Work",
+          "description": "I was an intern at Toyota and Cummins. I was by Toyota for 2 months, this was in my high school days. And Cummins for 6 months when I was in college. "
+      }
+  ],
+
+  "projects": [
+      {
+      "id": 1,
+      "name": "My first website",
+      "netlify": "https://fastidious-liger-75b1bb.netlify.app"
+  },
+  {
+      "id": 2,
+      "name": "Class Project",
+      "netlify": "https://extreme-age-gap.netlify.app"
+  },
+  {
+      "id": 3, 
+      "name": "To do list",
+      "netlify": "https://ubiquitous-empanada-5d35ea.netlify.app/"
+  },
+  {
+      "id": 4,
+      "name": "Temperature converter",
+      "netlify": "https://starlit-peony-428281.netlify.app/"
+  },
+  {
+      "id": 5,
+      "name": "BMI Calculator",
+      "netlify": "https://fascinating-profiterole-75d2d2.netlify.app"
+  },
+  {
+      "id": 6,
+      "name": "Calculator",
+      "netlify": "https://tangerine-jalebi-4f740d.netlify.app/"
+  }
+  ],
+
+  "testimonials": [
+      {
+          "id":1, 
+          "image": "https://i.postimg.cc/VNMyP4vq/C12-Tara-Snell-2.jpg",
+          "message": "Lyle is a confident person. He's willing to learn. Super helpful when it comes to things he knows well. What I appreciated most about this developer was his attention to detail. He had a keen eye for design, and he was able to bring my vision to life in a way that I never could have imagined. He was also incredibly thorough in his work, ensuring that every element of the website was perfect before we launched it." 
+      },
+      {
+          "id":2, 
+          "image": "https://i.postimg.cc/WbRk2150/meezaan.jpg",
+          "message": "Lyle is a bright and talented coder who has been steadily improving his skills. His quick ability to catch on to new coding concepts and apply them to his work has been impressive. As Lyle's team leader, I am impressed with his natural talent for coding and her quick ability to catch on to new concepts. He has been steadily improving her skills and is a valuable contributor to our team. His bright personality and dedication to her work make him an asset to our projects." 
+      },
+      {
+          "id":3, 
+          "image": "https://i.postimg.cc/ZRhGb3v1/C12-Timothy-Barry-1.jpg",
+          "message": "I have had the pleasure of working with Lyle. Lyle is a very self-sufficient guy, he likes to work by himself but he also works well in a team. He is overall a great guy and very kind. An excellent guy to be around." 
+      },
+      {
+          "id":4, 
+          "image": "https://i.postimg.cc/QtkRHtpV/C12-Cheslyn-Herman-1.jpg",
+          "message": "I recently had the pleasure of working with an amazing front-end developer, and I must say, he exceeded all of my expectations. From the moment we started working together, it was clear that he was a true expert in his field. His knowledge of HTML, CSS, and JavaScript was impressive, and he was able to create beautiful, functional websites with ease." 
+      },
+      {
+          "id":5, 
+          "image": "https://i.postimg.cc/v82VCvV2/IMG-3453.jpg",
+          "message": "Lyle is a man of few words and more action. He does not shy away from a challenge and he is very resourceful. When you ask for his help, he is always there and will try to the best of his ability. He is a good team player and takes pride in his work. His commitment to meeting deadlines and delivering quality work is outstanding. I would recommend Lyle for any web development project." 
+      },
+      {
+          "id":6, 
+          "image": "https://i.postimg.cc/hPK53cV1/C12-C2-Codi-Kader-1.jpg",
+          "message": "Lyle Kepkey, I love that man. He is so down to earth and kind. He can put a smile on anyones face with just a few words. He is really passionate about web development and his craft. Lyle is always willing to help with problems relating to any type of work he can help with.He is definitely a great addition to any team or company. He works really well in a team and can bring a team alive and help them in any way possible. However, if needed he works really well alone as well." 
+      }
+  ]
+}
